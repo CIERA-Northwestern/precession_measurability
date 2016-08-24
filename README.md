@@ -19,3 +19,14 @@ Materials and code related to measuring precession
   * [Ohme et al., 2013](http://arxiv.org/pdf/1304.7017v2.pdf)
  * GW search based papers
   * [Harry et al., 2016](http://arxiv.org/pdf/1603.02444v2.pdf) "Searching for gravitational waves from compact binaries with precessing spins"
+ * Astrophysics papers
+  * [Kalogera 1999](http://arxiv.org/pdf/astro-ph/9911417v2.pdf) "Spin–Orbit Misalignment in Close Binaries with Two Compact Objects"i
+  * [Gerosa et al., 2015](https://arxiv.org/pdf/1503.06807v2.pdf) "Spin alignment and differential accretion in merging black hole binaries"
+  * [Gerosa et al., 2015](https://arxiv.org/pdf/1506.09116v2.pdf) "Precessional instability in binary black holes with aligned spins"
+  * [Gerosa et al., 2013](http://arxiv.org/pdf/1302.4442v2.pdf) "Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation" 
+* Formation channels papers
+  * [Brieivik et al., 2016](https://arxiv.org/pdf/1606.09558v1.pdf) "Distinguishing Between Formation Channels for Binary Black Holes with LISA"
+  * [Nishizawa et al., 2016](http://arxiv.org/pdf/1606.09295.pdf) "Constraining stellar binary black hole formation scenarios with eLISA eccentricity measurements"
+  * [Vitale et al., 2016](http://arxiv.org/pdf/1503.04307.pdf) "Use of gravitational waves to probe the formation channels of compact binaries"
+  * [Rodriguez et al., 2015](http://arxiv.org/pdf/1505.00792v3.pdf) "Binary Black Hole Mergers from Globular Clusters: Implications for Advanced LIGO"
+  * [Rodriguez et al., 2016](http://arxiv.org/pdf/1602.02444v2.pdf) "Binary Black Hole Mergers from Globular Clusters: Masses, Merger Rates, and the Impact of Stellar Evolution" 
