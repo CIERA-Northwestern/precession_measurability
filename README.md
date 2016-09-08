@@ -11,6 +11,10 @@ Materials and code related to measuring precession
    * [Gerosa et al, 2015](http://arxiv.org/pdf/1506.03492v2.pdf) "Multi-timescale analysis of phase transitions in precessing black-hole binaries"
    * [Trifiro et al., 2016](http://arxiv.org/pdf/1507.05587v3.pdf) -- also does some parameter estimation techniques
    * [Gerosa et al., 2013](http://arxiv.org/pdf/1302.4442v2.pdf) "Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation"
+ * Fisher matrix work
+   * [Vallisneri, 2007](https://arxiv.org/pdf/gr-qc/0703086v2.pdf) "Use and Abuse of the Fisher Information Matrix in the Assessment of Gravitational-Wave Parameter-Estimation Prospects"
+   * [Nicholson and Vecchio, 1998](https://arxiv.org/pdf/gr-qc/9705064v1.pdf) "Bayesian Bounds on Parameter Estimation Accuracy for Compact Coalescing Binary
+Gravitational Wave Signals"
  * Parameter Estimation with spin-induced precession
   * [Vivien Raymond's thesis, 2012](https://gwic.ligo.org/thesisprize/2012/raymond-thesis.pdf) -- some description of PE with spin, no specific measurability assessment
   * [Chatziioannou et al., 2014](https://arxiv.org/pdf/1404.3180v2.pdf) "Detection and parameter estimation of gravitational waves from compact binary inspirals with analytical double-precessing templates"
